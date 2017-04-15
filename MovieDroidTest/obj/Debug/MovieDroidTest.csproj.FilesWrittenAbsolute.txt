@@ -1,0 +1,7 @@
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroidTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroidTest/bin/Debug/MovieDroidTest.pdb
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroidTest/bin/Debug/MovieDroidTest.dll
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroidTest/obj/Debug/MovieDroidTest.dll
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroidTest/obj/Debug/MovieDroidTest.pdb
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroidTest/bin/Debug/nunit.framework.dll
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroidTest/bin/Debug/Xamarin.UITest.dll

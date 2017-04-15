@@ -1,0 +1,7 @@
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/bin/Debug/MovieDemo.dll
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/bin/Debug/MovieDemo.pdb
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/bin/Debug/Newtonsoft.Json.dll
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/bin/Debug/Newtonsoft.Json.xml
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/obj/Debug/MovieDemo.csproj.CoreCompileInputs.cache
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/obj/Debug/MovieDemo.dll
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/obj/Debug/MovieDemo.pdb

@@ -1,0 +1,6 @@
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/bin/Debug/MovieDemo.pdb
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/bin/Debug/MovieDemo.dll
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/obj/Debug/MovieDemo.dll
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/obj/Debug/MovieDemo.pdb
+/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/bin/Debug/Newtonsoft.Json.dll

@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{CEFF251E-C104-4B22-B226-A999422F3CF4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieDroid/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="MovieDroid/Resources/values/colors.xml" Line="1" Column="1" />
+      <File FileName="MovieDroid/Resources/values/Strings.xml" Line="4" Column="44" />
+      <File FileName="MovieDroid/Resources/values/styles.xml" Line="5" Column="24" />
+      <File FileName="MovieDroid/MainActivity.cs" Line="15" Column="24" />
+      <File FileName="MovieDroid/packages.config" Line="13" Column="45" />
+      <File FileName="MovieDroid/Properties/AndroidManifest.xml" Line="8" Column="12" />
+      <File FileName="MovieDroid/MovieListAdapter.cs" Line="13" Column="7" />
+      <File FileName="MovieDemo/API/MovieAPI.cs" Line="263" Column="9" />
+      <File FileName="MovieDroid/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieDemo" expanded="True">
+            <Node name="MovieDroid" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AssemblyInfo.cs" selected="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="layout" expanded="True" />
+                <Node name="menu" expanded="True" />
+                <Node name="values" expanded="True" />
+                <Node name="xml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MovieDroid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
