@@ -7,3 +7,13 @@
 /Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroidTest/obj/Debug/MovieDroidTest.csproj.CoreCompileInputs.cache
 /Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroidTest/obj/Debug/MovieDroidTest.dll
 /Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroidTest/obj/Debug/MovieDroidTest.pdb
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroidTest/bin/Debug/MovieDroidTest.dll
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroidTest/bin/Debug/MovieDroidTest.pdb
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroidTest/bin/Debug/nunit.framework.dll
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroidTest/bin/Debug/Xamarin.UITest.dll
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroidTest/bin/Debug/nunit.framework.xml
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroidTest/bin/Debug/Xamarin.UITest.xml
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroidTest/obj/Debug/MovieDroidTest.csprojResolveAssemblyReference.cache
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroidTest/obj/Debug/MovieDroidTest.csproj.CoreCompileInputs.cache
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroidTest/obj/Debug/MovieDroidTest.dll
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroidTest/obj/Debug/MovieDroidTest.pdb

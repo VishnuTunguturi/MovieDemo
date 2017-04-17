@@ -99,6 +99,7 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "MovieDroid.dll" comes first in this list. */
 		"MovieDroid.dll",
+		"MovieDemo.dll",
 		"Square.OkHttp.dll",
 		"Square.OkIO.dll",
 		"Square.Picasso.dll",
@@ -112,7 +113,6 @@ class MonoPackageManager_Resources {
 		"Xamarin.Android.Support.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.v7.AppCompat.dll",
-		"MovieDemo.dll",
 		"Newtonsoft.Json.dll",
 	};
 	public static final String[] Dependencies = new String[]{

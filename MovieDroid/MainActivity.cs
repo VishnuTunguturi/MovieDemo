@@ -52,6 +52,18 @@ namespace MovieDroid
             GetAllMovies();
         }
 
+		protected async override void OnResume()
+		{
+			base.OnResume();
+			if (AppConstant.isfavpage)
+			{
+				AppConstant.isfavpage = false;
+				ismorefav = true;
+				cntfav = 1;
+				await GetFavourites(cntfav.ToString());
+			}
+		}
+
         public override bool OnCreateOptionsMenu(IMenu menu)
         {
             MenuInflater.Inflate(Resource.Menu.home_menu, menu); 

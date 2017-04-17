@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Hello">Hello World, Click Me!</string>
   <string name="ApplicationName">MovieDroid</string>
@@ -8,6 +8,6 @@
   <string name="txt_now">Now Playing</string>
   <string name="txt_fav">Favourite</string>
   <string name="txt_play_video">Play Video</string>
-  <string name="txt_save_to_favourites">Save to Favourites</string>
+  <string name="txt_save_to_favourites">Favourite</string>
   <string name="txt_related">Similar Movies</string>
 </resources>

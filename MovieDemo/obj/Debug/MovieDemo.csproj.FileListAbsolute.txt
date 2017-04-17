@@ -5,3 +5,10 @@
 /Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/obj/Debug/MovieDemo.csproj.CoreCompileInputs.cache
 /Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/obj/Debug/MovieDemo.dll
 /Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDemo/obj/Debug/MovieDemo.pdb
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDemo/bin/Debug/MovieDemo.dll
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDemo/bin/Debug/MovieDemo.pdb
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDemo/bin/Debug/Newtonsoft.Json.dll
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDemo/bin/Debug/Newtonsoft.Json.xml
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDemo/obj/Debug/MovieDemo.csproj.CoreCompileInputs.cache
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDemo/obj/Debug/MovieDemo.dll
+/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDemo/obj/Debug/MovieDemo.pdb

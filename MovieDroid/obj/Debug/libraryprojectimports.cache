@@ -2,17 +2,13 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroid/obj/Debug/__library_projects__/System.Drawing.Primitives/library_project_imports/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView/library_project_imports/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat/library_project_imports/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
-  <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj/Debug/__library_projects__/System.Drawing.Primitives/library_project_imports/assets</ResolvedAssetDirectory>
-  </ResolvedAssetDirectories>
+  <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroid/obj/Debug/__library_projects__/System.Drawing.Primitives.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/vishnumohantunguturi/Downloads/MovieDemo/MovieDroid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/vishnumohantunguturi/Desktop/MovieDemo/MovieDroid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
